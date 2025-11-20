@@ -1,5 +1,5 @@
-# mldl_exam_project
-Ostudina Kseniia MLDL final project
+# mldm_exam_project
+Ostudina Kseniia MLDM final project
 
 Model's architecture is absolutly the same as in the article https://arxiv.org/abs/1606.03657 
 
