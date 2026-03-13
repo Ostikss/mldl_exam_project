@@ -105,5 +105,3 @@ Latent traversal experiments demonstrate disentanglement:
 
 
 
-
-
